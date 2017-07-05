@@ -1,4 +1,4 @@
-# Unity highligh on touch
+# Unity highlight on touch
 
 ![](Screenshots/demo.gif)
 
